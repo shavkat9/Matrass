@@ -1,0 +1,120 @@
+.form__body {
+    display: flex;
+}
+.form__section {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+.form__body {
+    display: block;
+}
+.form__body img {
+    display: block;
+    width: 60xp;
+    height: 60px;
+}
+.form__body p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #01384D;
+}
+.form__box h3 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    color: #01384D; 
+}
+.form__box ul {
+    width: 80%;
+    margin: 30px 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.form__box ul li {
+    list-style: none;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #01384D;
+    opacity: 0.6;
+}
+/* ------------------------------- */
+.form__hero {
+    width: 900px;
+    height: 370px;
+    margin: 80px 220px;
+    background: #F6FBFF;
+    border: 1px solid #C7DFF5;
+}
+.form__assets img {
+    width: 350px;
+    display: block;
+    margin: 50px 70px;
+}
+.form__asset h4 {
+    font-size: 24px;
+    line-height: 40px;
+    color: #01384D;
+}
+.form__line {
+    display: flex;
+}
+.form__lists span  {
+    display: block;
+}
+.form__lists {
+    display: flex;
+    justify-content: space-between;
+    padding-top: -30px;
+}
+.form__list .form__num1{
+    width: 30px;
+    height: 20px;
+    padding: 2px;
+}
+.form__list span {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #01384D;
+    opacity: 0.6;
+}
+.form__asset p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 26px;
+    color: #01384D;
+    opacity: 0.6;
+}
+.form__assets button {
+    width: 180px;
+    height: 30px;
+    background: #FF6B6B;
+    border-radius: 5px;
+    border: navajowhite;
+    margin: 20px;
+}
+.form__asset .form__narx {
+    display: block;
+    width: 100px;
+    height: 40px;
+    padding: 2px;
+}
+.form__asset .form__savat {
+    width: 120px;
+    height: 17px; 
+    margin-top: 10px;
+    background-color: #fff;
+    padding: 10px;
+    border: 2px solid #01384D;
+    border-radius: 5px;
+}

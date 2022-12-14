@@ -1,0 +1,8 @@
+.form__assets .form__button {
+    width: 180px;
+    height: 30px;
+    background: green;
+    border-radius: 5px;
+    border: navajowhite;
+    margin: 20px;
+}

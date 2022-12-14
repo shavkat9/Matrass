@@ -1,0 +1,13 @@
+.navbar__section ul {
+    display: flex;
+    justify-content: end;
+    column-gap: 80px;
+    list-style: none;
+    padding: 30px 100px;
+}
+.navbar__section ul li a {
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 12px;
+    color: #01384D;
+}

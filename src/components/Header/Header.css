@@ -1,0 +1,81 @@
+.header__fonts {
+    display: flex;
+    margin-left: 100px;
+    margin-top: -40px;
+    flex-direction: row;
+    align-items: center;
+}
+.header__end {
+    margin: -34px 20px 50px 800px;
+    display: flex;
+    align-items: center;
+}
+.header__fonts .header__bed {
+    width: 46px;
+    height: 30px;
+    padding: 10px;
+}
+.header__fonts .header__text {
+    width: 140px;
+    height: 30px;
+    padding: 10px;
+}
+.header__end {
+    position: relative;
+    gap: 50px;
+}
+.header__btn {
+    width: 170px;
+    height: 35px;
+    font-size: 14px;
+    border: 2px solid #01384D;
+    border-radius: 4px;
+    line-height: 16px;
+    color: #01384D;
+}
+.header__tel {
+    position: absolute;
+    top: 20;
+    right: 533px;
+}
+.header__end p {
+    font-size: 15px;
+    line-height: 18px;
+    color: #01384D;
+}
+.header__titles {
+    width: 60%;
+    position: relative;
+}
+.header__titles span {
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 95px;
+    color: #01384D;
+    margin-left: 100px;
+    margin-top: 120px;
+    display: block;
+    text-align: start;
+}
+.header__titles button {
+    width: 150px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 2px solid #01384D;
+    border-radius: 5px;
+    margin: 20px 50px 0 110px;
+}
+.header__titles hr {
+    width: 400px;
+    background-color: red;
+    display: block;
+    margin-right: 300px;
+    margin-top: 50px;
+    text-align: start;
+}
+.header__titles img {
+    width: 600px;
+    position: absolute;
+    top: 50px;
+    left: 570px;
+}

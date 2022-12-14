@@ -1,0 +1,93 @@
+.side__lists {
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+}
+.side__text h3 {
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 70px;
+    line-height: 50px;
+    text-align: center;
+    color: #01384D;
+}
+.side__lists {
+    margin-left: 66px;
+}
+.side__box {
+    width: 450px;
+    height: 440px;
+    border: 1px solid #01384D;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.side__box img {
+    width: 350px;
+}
+.side__box h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px; 
+    margin-top: 50px;
+    text-align: center;
+    color: #01384D;
+}
+.side__box p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #01384D;
+    padding: 10px 30px;
+    opacity: 0.7;
+}
+.side__box span {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-align: center;
+    text-decoration-line: underline;
+    display: block;
+    color: #01384D;
+}
+.side__up {
+    display: flex;
+    justify-content: space-between;
+}
+.side__down {
+    text-align: start;
+    margin: 40px 80px 0;
+}
+.side__down h3 {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 50px;
+    color: #01384D;
+}
+.side__down p {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    color: #01384D;
+}
+.side__down span {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #01384D;
+}
+.side__down button {
+    width: 200px;
+    height: 35px;
+    font-size: 17px;
+    margin-top: 40px;
+    display: block;
+    background: #FFFFFF;
+    border: 2px solid #01384D;
+    border-radius: 5px;
+}
+.side__image img {
+    width: 540px;
+    margin: 70px 70px 0;
+}
